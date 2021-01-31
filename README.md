@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Er1c0&label=Profile%20views&color=0e75b6&style=flat" alt="Er1c0" /> </p>
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er1c0&layout=compact" alt="Er1c0" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er1c0&layout=compact" alt="Er1c0" /></p>
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Er1c0&show_icons=true" alt="Er1c0" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Er1c0&show_icons=true" alt="Er1c0" /></p>
